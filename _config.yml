@@ -1,9 +1,9 @@
-title: Jannatul Mawa Chowdhury
-description: Portfolio of a CSE Student & Frontend Enthusiast
+title: Portfolio
+# description: Portfolio of a CSE Student & Frontend Enthusiast
 theme: minima
 
 author:
   name: Jannatul Mawa Chowdhury
-  email: cse_0182220012101165@lus.ac.bd
+  # email: cse_0182220012101165@lus.ac.bd
 
-show_excerpts: false
+show_excerpts: True
