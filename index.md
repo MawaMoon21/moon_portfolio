@@ -3,24 +3,26 @@ layout: default
 title: Home
 ---
 
-# 🌙 Jannatul Mawa Chowdhury
+#  Jannatul Mawa Chowdhury
 
-![Profile Image](images/moon.jpeg)
+<p align="center">
+  <img src="images/moon.jpeg" width="180" style="border-radius:50%;">
+</p>
 
-## 👩‍💻 About Me
+##  About Me
 I am a CSE student at Leading University, Sylhet.  
 I am passionate about frontend development, design, and creativity.
 
 ---
 
-## 🎓 Education
+##  Education
 - **SSC:** Kulaura Girls High School  
 - **HSC:** BAF Shaheen College, Shamshernagar  
 - **BSc (Running):** Leading University, Sylhet  
 
 ---
 
-## 💡 Skills
+##  Skills
 - HTML, CSS, Bootstrap  
 - JavaScript (Learning)  
 - Flutter  
@@ -28,10 +30,10 @@ I am passionate about frontend development, design, and creativity.
 
 ---
 
-## 📍 Address
+##  Address
 Samimabad, Sylhet  
 
 ---
 
-## 📧 Contact
+##  Contact
 Email: cse_0182220012101165@lus.ac.bd  
